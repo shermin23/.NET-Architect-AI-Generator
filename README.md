@@ -1,3 +1,25 @@
+DotNet Architect AI is not just a code generator — it is a **domain-specialized system** that transforms user requirements into a **complete, architecturally correct .NET backend**.  
+It ensures consistent patterns, clean layering, proper DI setup, caching, policies, configuration handling, and adherence to best practices — all areas where generic LLM prompts often fail.
+
+### Why This Tool Is Necessary
+Generic LLMs can generate code, but their responses:
+- vary every time  
+- may be inconsistent  
+- often violate architectural standards  
+
+DotNet Architect AI solves these problems by enforcing:
+
+- **Standardized project structure**  
+- **Reusable architectural patterns**  
+- **Correct dependency injection wiring**  
+- **Coherent naming conventions**  
+- **Repository / Service / Controller layering**  
+- **Authentication & role-based access included by design**  
+- **APIs that compile and run without manual fixing**
+
+This transforms code generation from “helpful text” into a **repeatable, reliable engineering workflow**.
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
