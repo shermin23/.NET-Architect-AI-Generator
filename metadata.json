@@ -1,0 +1,5 @@
+{
+  "name": "DotNet Architect AI",
+  "description": "An AI-powered architectural code generator for ASP.NET Core solutions. Generates production-ready C# code for complex backend scenarios using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
